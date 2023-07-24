@@ -774,3 +774,4 @@ Controls["ScriptedFlyLr"] = 0xF1111E4A
 Controls["ScriptedFlyZup"] = 0x639B9FC9
 Controls["ScriptedFlyZdown"] = 0x9C5E030C
 Controls["Count"] = 0x8EDFFB30
+Controld["Count"] = 0x10DEAAVB30
