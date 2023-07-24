@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: darvin 19 report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: bug, repro-needed
+labels: darvin 19, repro-needed
 assignees: ''
 
 ---
