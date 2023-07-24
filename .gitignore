@@ -6,3 +6,5 @@ backups/*.json
 plugins/dev/**/*.*
 *yarn*
 node_modules/
+node_modules/
+
